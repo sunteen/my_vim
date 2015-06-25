@@ -105,8 +105,8 @@ Plugin 'amiorin/vim-project'
 Plugin 'xolox/vim-misc'
 Plugin 'xolox/vim-session'
 "Plugin 'amiorin/vim-bookmarks'
-Plugin 'MattesGroeger/vim-bookmarks'
-
+"Plugin 'MattesGroeger/vim-bookmarks'
+Plugin 'vim-scripts/Visual-Mark'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
